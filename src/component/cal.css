@@ -1,0 +1,50 @@
+.container
+{
+    background-color: beige;   
+    margin: auto auto auto auto;
+    padding: 15px;
+    text-align: center;
+    max-width: 3000px;
+    width:400px;
+    height: 250px;
+    border-style: groove;
+    border-radius: 10px;
+}
+.App
+{
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    min-height: 100vh;
+
+    background-image: url(bmi_cal.jpg);
+    background-repeat: repeat;
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#sp
+{
+    margin-top: 20px;
+}
+.btn
+{
+    margin-right: 10px;
+    border-radius: 1px;
+}
+#np
+{
+    margin-top: 5px;
+}
+#name
+{
+    margin-top: -3%;
+    text-align: left;
+    color:rgb(25, 225, 51);
+    font-weight: bold;
+    text-decoration: underline;
+}
