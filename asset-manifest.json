@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Capstone_Project/static/css/main.d7abbc11.css",
+    "main.js": "/Capstone_Project/static/js/main.565e6baa.js",
+    "static/js/787.7779eadb.chunk.js": "/Capstone_Project/static/js/787.7779eadb.chunk.js",
+    "static/media/bmi_cal.jpg": "/Capstone_Project/static/media/bmi_cal.2de06d145d8184ff07e8.jpg",
+    "static/media/logo.svg": "/Capstone_Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Capstone_Project/index.html",
+    "main.d7abbc11.css.map": "/Capstone_Project/static/css/main.d7abbc11.css.map",
+    "main.565e6baa.js.map": "/Capstone_Project/static/js/main.565e6baa.js.map",
+    "787.7779eadb.chunk.js.map": "/Capstone_Project/static/js/787.7779eadb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7abbc11.css",
+    "static/js/main.565e6baa.js"
+  ]
+}
